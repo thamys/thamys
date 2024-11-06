@@ -29,12 +29,6 @@ Creator of innovative solutions with **React**, **Next.js**, **Node.js**, and **
 
 ---
 
-### 📈 GitHub Contributions
-
-![Thamyres Guedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamys&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn**: [Thamyres Guedes](https://www.linkedin.com/in/thamys-guedes/)
 - **Email**: contato@thamys.dev
